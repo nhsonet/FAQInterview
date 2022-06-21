@@ -1,0 +1,14 @@
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\DEV_ENV\FaqInterview\Console\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
